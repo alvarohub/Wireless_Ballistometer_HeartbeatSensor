@@ -128,39 +128,6 @@ platformio.ini          # PlatformIO environment and dependencies
 
 Created by Alvaro Cassinelli, 2025.
 
-## Project Media (Photos and Videos)
-
-You can document results directly in this README and keep media files in the repository.
-
-Recommended structure:
-
-```text
-docs/
-  media/
-    setup.jpg
-    dashboard.png
-    heartbeat-demo.gif
-```
-
-Example image in README:
-
-```markdown
-![Hardware setup](docs/media/setup.jpg)
-```
-
-For videos, GitHub README works best with either:
-
-- A GIF preview embedded in README, plus a link to full video
-- A direct link to an `.mp4` hosted in the repo, a Release asset, or an external platform
-
-Example video link in README:
-
-```markdown
-[Watch demo video](docs/media/heartbeat-demo.mp4)
-```
-
-If you want a richer project page than README, enable GitHub Pages and publish from `docs/` with a static site generator (for example MkDocs or a simple custom HTML page).
-
 ## License
 
 This project is licensed under the MIT License.
